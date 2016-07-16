@@ -6,3 +6,10 @@
 *.m4a
 *jpg
 *.png
+
+ART_D-9/sounds/*
+#ART_D-9/sounds/sounds_s-10/*.wav
+ART_D-9/sounds/sounds_s-10/*.wav
+
+domino/*.mid
+domino/*.mp3
