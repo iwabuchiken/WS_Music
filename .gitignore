@@ -13,3 +13,6 @@ ART_D-9/sounds/sounds_s-10/*.wav
 
 domino/*.mid
 domino/*.mp3
+
+domino/*/*.mid
+domino/*/*.mp3
