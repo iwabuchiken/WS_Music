@@ -6,4 +6,8 @@ taskkill /im MuseScore.exe
 echo killing wish.exe
 taskkill /im wish.exe
 
+echo killing Domino.exe
+taskkill /im Domino.exe
+
+
 exit
