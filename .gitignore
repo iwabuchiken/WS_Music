@@ -16,3 +16,5 @@ domino/*.mp3
 
 domino/*/*.mid
 domino/*/*.mp3
+
+projects/*/*/*_data/

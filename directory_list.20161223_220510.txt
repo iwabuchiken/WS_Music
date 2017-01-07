@@ -1,0 +1,28 @@
+created at = 20161223_220510
+dir path = C:/WORKS_2/WS/WS_Music
+dirs = 8
+files = 11
+
+<directories> 8
+audio
+ctk-4200
+domino
+mscz
+pdf
+projects
+StudioOne
+style
+
+
+<files> 11
+a.bat
+build_list.rb
+d.bat
+d.bat.mac
+get_folder_list.rb
+koto-1.mus
+koto-2.mscz
+koto-3_(voice-20160125)_v-1.0.mscz
+style のエイリアス
+WC-1.mscz
+_Users_mac_Library_Application Support_MuseScore_MuseScore2_scW11690.mscz
