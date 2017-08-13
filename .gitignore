@@ -6,6 +6,8 @@
 *.m4a
 *jpg
 *.png
+*.mid
+
 
 ART_D-9/sounds/*
 #ART_D-9/sounds/sounds_s-10/*.wav
