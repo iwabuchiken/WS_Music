@@ -1,0 +1,42 @@
+program file path = C:\WORKS_2\WS\WS_Others\prog\D-5\1#\get_folder_list.rb
+version = 1.0
+list file created at = 20171207_060417
+dir path = C:/WORKS_2/WS/WS_Music
+dirs = 11
+files = 20
+
+<directories> 11
+apps
+audio
+ctk-4200
+domino
+iphone_voice_memo
+LMMS
+mscz
+pdf
+projects
+StudioOne
+style
+
+
+<files> 20
+a.bat
+build_list.rb
+d.bat
+d.bat.mac
+directory_list.20161223_220510.txt
+directory_list.20161223_221048.txt
+e.bat
+f.bat~
+get_folder_list.20161224_003645.rb
+get_folder_list.rb
+h.bat
+koto-1.mus
+koto-2.mscz
+koto-3_(voice-20160125)_v-1.0.mscz
+p.bat
+q
+q.bat
+style のエイリアス
+WC-1.mscz
+_Users_mac_Library_Application Support_MuseScore_MuseScore2_scW11690.mscz
