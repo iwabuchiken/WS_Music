@@ -1,0 +1,17 @@
+
+C:\WORKS_2\WS\WS_Music>"C:\Program Files\Git\cmd\git" s    
+On branch master
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
+Changes to be committed:
+  (use "git reset HEAD <file>..." to unstage)
+
+	new file:   domino/memo/2018-02/m=20180224_163246.(1).k-F.id=exc-1.dms
+	new file:   domino/memo/2018-02/m=20180224_163246.(2).k-F.id=phrase-1.dms
+	new file:   domino/memo/2018-02/m=20180224_163246.(3).k-F.id=exc-1.boogie.dms
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	temp.txt
+
