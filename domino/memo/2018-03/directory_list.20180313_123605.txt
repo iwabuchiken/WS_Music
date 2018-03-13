@@ -1,0 +1,56 @@
+program file path = C:\WORKS_2\WS\WS_Others\prog\D-5\1#\get_folder_list.rb
+version = 1.0
+list file created at = 20180313_123605
+dir path = C:/WORKS_2/WS/WS_Music/domino/memo/2018-03
+dirs = 0
+files = 45
+
+<directories> 0
+
+
+<files> 45
+get_folder_list.20161224_003645.rb
+m=20180301_155326.(1).k-C.t-60.comp-1.dms
+m=20180301_155326.(2).k-Gm.t-60.exc-2_N.dms
+m=20180301_155326.(3).k-Gm.t-60.exc-3_N.dms
+m=20180301_155326.(4).k-G.t-70.comp-1.dms
+m=20180301_155326.(5).k-A.t-70.rec-1.dms
+m=20180301_155326.(6).k-A.t-70.rec-2.dms
+m=20180301_155326.(7).k-CM7.t-60.ending-pattern.dms
+m=20180302_132232.(1).k-A.t-60.rec-1.free.dms
+m=20180302_132232.(2).k-F.t-60.exc-1.(exc-1-1,melody+).dms
+m=20180302_132232.(3).k-F.t-60..exc-2.(exc-1-1,melody+).dms
+m=20180303_131706.(1).k-F.t-80.exc-1.1-octave.dms
+m=20180303_131706.(2).k-A.t-80.exc-2.arpeggio.dms
+m=20180303_131706.(3).k-Cm.t-60.play-3.blues.dms
+m=20180304_140816.(1).k-Em.t-70.rec-1.free.dms
+m=20180304_140816.(2).k-C.t-60.research,matching.dms
+m=20180304_140816.(3).k-C.t-50.research,matching.dms
+m=20180304_140816.(4).k-CorF.t-50.research,matching.dms
+m=20180304_140816.(5).k-Cm.t-60.play-3.blues.dms
+m=20180305_131518.(1).k-C.t-60.comp-1.free.dms
+m=20180305_131518.(2).k-C.t-70.comp-2.free.dms
+m=20180305_131518.(3).k-C.t-70.comp-3.free.dms
+m=20180305_131518.(4).k-A.t-70.comp-4.free.dms
+m=20180307_152807.(1).k-A.t-80.comp-1.funk.dms
+m=20180307_152807.(2).k-~.t-65.comp-2.mood-music.dms
+m=20180307_152807.(3).k-C.t-65.comp-3.2-code-music.dms
+m=20180307_152807.(4).k-F.t-60.comp-4.mood-music.dms
+m=20180307_152807.(5).k-C.t-60.comp-5.mood-music+2-code(C-Gm).dms
+m=20180308_145645.(1).k-Em.t-60.comp-1.i.f.-muse-20180307_215328.dms
+m=20180308_145645.(2).k-CM7.t-60.comp-1.phrase-ending.dms
+m=20180308_145645.(3).k-CM7.t-60.comp-2.theme-staccato.cp-[1].dms
+m=20180309_131831.(1).k-C.t-60.play-1.song-Talelight.dms
+m=20180309_131831.(2).k-C.t-60.comp-1.blues.dms
+m=20180309_131831.(3).k-C.t-60.comp-2.free,mood-music.dms
+m=20180310_141049.(1).k-C.t-100.comp-1.blues.play-2.dms
+m=20180310_141049.(2).k-FREE.t-100.comp-2.mood-music.dms
+m=20180311_105355.(1).k-C.t-110.exc-1.LR-diff.R-5,L-3.dms
+m=20180311_105355.(2).k-C.t-110.cmp-1.boogie.dms
+m=20180311_105355.(3).cmp-1.research-sequence.k-D.t-60.mood-music.dms
+m=20180311_105355.(3).cmp-1.research-sequence.k-D.t-60.mood-music.mid
+m=20180312_122315.(1).cmp-1.20180311_105355.(3).take-2.dms
+m=20180312_122315.(2).20180311_105355.(2).take-2.t-120.dms
+m=20180312_122315.(3).res-1.good-harmony.4-note.dms
+m=20180313_121917.(1).res-1.good-harmony.4-note.dms
+m=20180313_121917.(2).cmp-1.k-B.dms
