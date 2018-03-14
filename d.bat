@@ -12,6 +12,13 @@ taskkill /im Domino.exe
 echo killing javaw.exe
 taskkill /im javaw.exe
 
+echo killing thunderbird.exe
+taskkill /im thunderbird.exe
+
+
+echo killing chrome.exe
+taskkill /im chrome.exe
+
 pause
 
 REM exit
