@@ -19,7 +19,7 @@ taskkill /im thunderbird.exe
 echo killing chrome.exe
 taskkill /im chrome.exe
 
-exit
+REM exit
 
 REM pause
 
