@@ -9,6 +9,10 @@ taskkill /im wish.exe
 echo killing Domino.exe
 taskkill /im Domino.exe
 
+echo killing MuLab.exe
+taskkill /im MuLab.exe
+
+
 exit
 
 REM pause
